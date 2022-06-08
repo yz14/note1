@@ -3,7 +3,7 @@ title: EE 227C (Spring 2018) Convex Optimization and Approximation
 email: 
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ee227c.github.io" # the base hostname & protocol for your site
+url: "http://yz14.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
